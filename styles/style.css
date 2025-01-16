@@ -59,7 +59,6 @@ div a {
 
 main {
     flex: 1;
-    width: 100%;
     max-width: 1200px;
     margin-inline: auto;
     padding: 2rem 4rem;
@@ -147,4 +146,10 @@ h3 span:hover {
     border: 1px solid black;
     padding: 26px 53px 25px 53px;
     background-color: #D9D9D9;
+}
+
+/* footer */
+footer > p{
+    text-align: center;
+    font-size: 1.2rem;
 }

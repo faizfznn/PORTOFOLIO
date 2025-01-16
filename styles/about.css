@@ -19,7 +19,7 @@ header.navbar-container {
     width: 100%;
     max-width: 1200px;
     margin: auto;
-    margin-left: 75px;
+    /* margin-left: 75px; */
     padding: 1rem;
     display: flex;
     justify-content: space-between;
@@ -75,7 +75,7 @@ main {
     top: 10%;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 main .foto-profil {
@@ -85,7 +85,7 @@ main .foto-profil {
     border-top-right-radius: 1000px;
     object-fit: cover;
     object-position: center;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .content-image {
