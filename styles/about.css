@@ -19,7 +19,6 @@ header.navbar-container {
     width: 100%;
     max-width: 1200px;
     margin: auto;
-    /* margin-left: 75px; */
     padding: 1rem;
     display: flex;
     justify-content: space-between;
@@ -150,4 +149,10 @@ main aside .social-media li a {
 
 main aside .social-media li a:hover {
     color: #89b0d9;
+}
+
+/* footer */
+footer > p{
+    text-align: center;
+    font-size: 1.2rem;
 }
